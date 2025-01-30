@@ -73,6 +73,10 @@ The output file will be named like:
 
 Where `YYYYMMDDHHMMSS` is the timestamp when the prediction was generated.
 
+### Example output:
+
+![image](https://github.com/user-attachments/assets/fa8487bf-aaa7-42db-8bdd-52fcaada5690)
+
 ## Error Handling
 
 The application will gracefully handle the following scenarios:
