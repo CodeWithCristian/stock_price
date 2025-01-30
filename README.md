@@ -32,7 +32,11 @@ To install the necessary libraries, you can use the following command:
     - Example file format:
         
         
-        `Stock-ID, Timestamp, Price AAPL, 01-01-2022, 150.25 AAPL, 02-01-2022, 152.00 AAPL, 03-01-2022, 151.75 ...`
+      ```Stock-ID, Timestamp, Price
+         AAPL, 01-01-2022, 150.25 
+         AAPL, 02-01-2022, 152.00 
+         AAPL, 03-01-2022, 151.75
+         ```
         
 3. **Prepare the Output Folder**:
     
